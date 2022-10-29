@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinicius
 -  🎓 Cursando Engenharia de Software
-- 💻Fazend atualmente o Bootcamp  Pottencial .NET Developer
+- 💻 
 
 
 
