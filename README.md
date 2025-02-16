@@ -1,11 +1,6 @@
- -👋 Hi, I’m Vinicius
-
- -🎓 Cursando Engenharia de Software
-
- - Por aqui, compartilho meus projetos, idéias e avanços na minha jornada de aprendizado contínuo.
-  
- -  Acompanhe meu repositório para ver meus projetos mais recentes e quem sabe se inspirar!
-
+Olá, eu sou Marcos Vinicius! 👋
+👨‍💻 Engenharia de Software
+Atualmente, estou cursando Engenharia de Software, onde mergulho no mundo da programação, desenvolvimento de sistemas e boas práticas de engenharia. Minha paixão por tecnologia e resolução de problemas me motiva a aprender cada vez mais e contribuir para projetos inovadores.
   
 
 
