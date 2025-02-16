@@ -1,4 +1,4 @@
-Olá, eu sou Marcos Vinicius! 👋
+# Olá, eu sou Marcos Vinicius! 👋
 
 👨‍💻 Engenheiro de Software em formação
 
@@ -6,7 +6,7 @@ Atualmente, estou cursando Engenharia de Software, onde estou desenvolvendo habi
 
 Por aqui, você encontrará alguns dos meus projetos pessoais e acadêmicos. Cada repositório representa um passo na minha jornada de aprendizado e crescimento como desenvolvedor. 
 
-Contato
+# Contato:
 
 📫 Email: mviniciusg63@gmai.com
 
