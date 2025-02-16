@@ -8,7 +8,7 @@ Por aqui, você encontrará alguns dos meus projetos pessoais e acadêmicos. Cad
 
 # Contato:
 
-📫 Email: mviniciusg63@gmai.com
+📫 Email: mviniciusg63@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/marcos-vin%C3%ADcius-lima-nunes-2b8969251/
 
