@@ -1,4 +1,5 @@
 Olá, eu sou Marcos Vinicius! 👋
+
 👨‍💻 Engenharia de Software
 Atualmente, estou cursando Engenharia de Software, onde mergulho no mundo da programação, desenvolvimento de sistemas e boas práticas de engenharia. Minha paixão por tecnologia e resolução de problemas me motiva a aprender cada vez mais e contribuir para projetos inovadores.
   
