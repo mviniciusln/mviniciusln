@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinicius
 -  🎓 Cursando Engenharia de Software
-- Por aqui, compartilho meus projetos, idéias e avanços na minha jornada de aprendizado contínuo. Tenho muitos anos de experiência em Design Gráfico, e atualmente estou em fase de transição de carreira.
+- Por aqui, compartilho meus projetos, idéias e avanços na minha jornada de aprendizado contínuo. 
 
 - Acompanhe meu repositório para ver meus projetos mais recentes e quem sabe se inspirar!
 
