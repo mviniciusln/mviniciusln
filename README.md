@@ -1,10 +1,10 @@
--👋 Hi, I’m Vinicius
+ -👋 Hi, I’m Vinicius
 
--🎓 Cursando Engenharia de Software
+ -🎓 Cursando Engenharia de Software
 
-- Por aqui, compartilho meus projetos, idéias e avanços na minha jornada de aprendizado contínuo.
+ - Por aqui, compartilho meus projetos, idéias e avanços na minha jornada de aprendizado contínuo.
   
--  Acompanhe meu repositório para ver meus projetos mais recentes e quem sabe se inspirar!
+ -  Acompanhe meu repositório para ver meus projetos mais recentes e quem sabe se inspirar!
 
   
 
